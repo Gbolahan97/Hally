@@ -108,7 +108,7 @@ header label{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background:url(../images/home-bg-img.png) no-repeat;
+    background:url(home-bg-img.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -180,7 +180,7 @@ section .container{
 	cursor: pointer;
 }
 .about{
-    background:url(../images/about-bg.png) no-repeat;
+    background:url(about-bg.png) no-repeat;
     background-size: cover;
     background-position: center;
     padding-bottom: 3rem;
@@ -289,7 +289,7 @@ section .container{
 .footer{
     position: relative;
     margin-top: 5%;
-    background:url(../images/footer-bg.png) no-repeat;
+    background:url(footer-bg.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
